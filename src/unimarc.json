@@ -1,0 +1,35 @@
+{
+	"document" : {
+		"name" : "DOCUMENT",
+		"records" :
+			[{
+				"name" : "record",
+				"fields" :
+					[]
+				},{
+				"name" : "record",
+				"fields" :
+					[]
+				},{
+				"name" : "record",
+				"fields" :
+					[{
+						"label" : "225",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Dela Borislava Pekića u 13 knjiga"
+							},{
+								"key" : "v",
+								"value" : "knj. 1"
+							}]
+					}]
+				},{
+				"name" : "record",
+				"fields" :
+					[]
+				}]
+	}
+}

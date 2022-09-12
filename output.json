@@ -1,0 +1,1034 @@
+{
+	"document" : {
+		"name" : "DOCUMENT",
+		"records" :
+			[{
+				"name" : "record",
+				"fields" :
+					[{
+						"label" : "001",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "c"
+							},{
+								"key" : "b",
+								"value" : "a"
+							},{
+								"key" : "c",
+								"value" : "m"
+							},{
+								"key" : "d",
+								"value" : "0"
+							},{
+								"key" : "7",
+								"value" : "cb"
+							},{
+								"key" : "e",
+								"value" : "209093"
+							}]
+					},{
+						"label" : "010",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "978-86-505-2629-3"
+							},{
+								"key" : "b",
+								"value" : "картон"
+							}]
+					},{
+						"label" : "100",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "c",
+								"value" : "2015"
+							},{
+								"key" : "h",
+								"value" : "srp"
+							}]
+					},{
+						"label" : "101",
+						"firstIndicator" : "Indicator '0'",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "srp"
+							}]
+					},{
+						"label" : "102",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "srb"
+							}]
+					},{
+						"label" : "200",
+						"firstIndicator" : "Indicator '0'",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Проклета авлија"
+							},{
+								"key" : "f",
+								"value" : "Иво Андрић"
+							}]
+					},{
+						"label" : "205",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "1. изд. у оквиру библиотеке"
+							}]
+					},{
+						"label" : "210",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Београд"
+							},{
+								"key" : "c",
+								"value" : "Evro-Giunti"
+							},{
+								"key" : "d",
+								"value" : "2015"
+							}]
+					},{
+						"label" : "215",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "103 стр."
+							},{
+								"key" : "d",
+								"value" : "21 cm"
+							}]
+					},{
+						"label" : "225",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Магично перо"
+							}]
+					},{
+						"label" : "225",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Податак о години издавања преузет из CIP-a"
+							}]
+					},{
+						"label" : "300",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Речник турцизама, провинцијализама и неких мање познатих израза: стр. 91-94"
+							}]
+					},{
+						"label" : "300",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Стр. 95-102: Иво Андрић / Јован Деретић"
+							}]
+					},{
+						"label" : "423",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "1",
+								"field" : {
+						"label" : "600",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "ANDRIĆ"
+							},{
+								"key" : "b",
+								"value" : "IVO"
+							},{
+								"key" : "f",
+								"value" : "1892-1975"
+							},{
+								"key" : "x",
+								"value" : "Prokleta avlija"
+							}]
+					}
+							},{
+								"key" : "1",
+								"field" : {
+						"label" : "700",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Deretić"
+							},{
+								"key" : "b",
+								"value" : "Jovan"
+							}]
+					}
+							},{
+								"key" : "1",
+								"field" : {
+						"label" : "200",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Ivo Andrić"
+							}]
+					}
+							},{
+								"key" : "1",
+								"field" : {
+						"label" : "215",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "str. 95-102"
+							}]
+					}
+							}]
+					},{
+						"label" : "474",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "1",
+								"value" : "0"
+							}]
+					},{
+						"label" : "675",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "821.163.41-31"
+							},{
+								"key" : "b",
+								"value" : "821.163.41-31"
+							}]
+					},{
+						"label" : "675",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "821.163.41.09 Андрић И."
+							}]
+					},{
+						"label" : "700",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "Indicator '1'",
+						"subfields" :
+							[{
+								"key" : "4",
+								"value" : "070"
+							},{
+								"key" : "a",
+								"value" : "ANDRIĆ"
+							},{
+								"key" : "b",
+								"value" : "Ivo"
+							}]
+					},{
+						"label" : "702",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "Indicator '1'",
+						"subfields" :
+							[{
+								"key" : "4",
+								"value" : "080"
+							},{
+								"key" : "a",
+								"value" : "DERETIĆ"
+							},{
+								"key" : "b",
+								"value" : "Jovan"
+							}]
+					}]
+				},{
+				"name" : "record",
+				"fields" :
+					[{
+						"label" : "001",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "c"
+							},{
+								"key" : "b",
+								"value" : "a"
+							},{
+								"key" : "c",
+								"value" : "m"
+							},{
+								"key" : "d",
+								"value" : "0"
+							},{
+								"key" : "7",
+								"value" : "cb"
+							},{
+								"key" : "e",
+								"value" : "209106"
+							}]
+					},{
+						"label" : "010",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "978-86-505-2650-7"
+							},{
+								"key" : "b",
+								"value" : "картон"
+							}]
+					},{
+						"label" : "100",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "c",
+								"value" : "2015"
+							},{
+								"key" : "h",
+								"value" : "srp"
+							}]
+					},{
+						"label" : "101",
+						"firstIndicator" : "Indicator '0'",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "srp"
+							}]
+					},{
+						"label" : "102",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "srb"
+							}]
+					},{
+						"label" : "200",
+						"firstIndicator" : "Indicator '0'",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "На Дрини ћуприја"
+							},{
+								"key" : "f",
+								"value" : "Иво Андрић"
+							}]
+					},{
+						"label" : "205",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "1. изд. у оквиру библиотеке"
+							}]
+					},{
+						"label" : "210",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Београд"
+							},{
+								"key" : "c",
+								"value" : "Evro-Giunti"
+							},{
+								"key" : "d",
+								"value" : "2015"
+							}]
+					},{
+						"label" : "215",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "379 стр."
+							},{
+								"key" : "d",
+								"value" : "21 cm"
+							}]
+					},{
+						"label" : "225",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Магично перо"
+							}]
+					},{
+						"label" : "300",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Податак о години издавања преузет из CIP-а"
+							}]
+					},{
+						"label" : "300",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Речник турцизама, провинцијализама и неких мање познатих израза: стр. 363-370"
+							}]
+					},{
+						"label" : "300",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Стр. 371-378: Иво Андрић / Јован Деретић"
+							}]
+					},{
+						"label" : "423",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "1",
+								"field" : {
+						"label" : "600",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "ANDRIĆ"
+							},{
+								"key" : "b",
+								"value" : "IVO"
+							},{
+								"key" : "f",
+								"value" : "1892-1975"
+							},{
+								"key" : "x",
+								"value" : "Na Drini ćuprija"
+							}]
+					}
+							},{
+								"key" : "1",
+								"field" : {
+						"label" : "700",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "Indicator '1'",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Deretić"
+							},{
+								"key" : "b",
+								"value" : "Jovan"
+							}]
+					}
+							},{
+								"key" : "1",
+								"field" : {
+						"label" : "200",
+						"firstIndicator" : "Indicator '0'",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Ivo Andrić"
+							}]
+					}
+							},{
+								"key" : "1",
+								"field" : {
+						"label" : "215",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "str. 371-378"
+							}]
+					}
+							}]
+					},{
+						"label" : "474",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "1",
+								"value" : "0"
+							}]
+					},{
+						"label" : "675",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "821.163.41-31"
+							},{
+								"key" : "b",
+								"value" : "821.163.41-31"
+							}]
+					},{
+						"label" : "675",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "821.163.41-31.09 Андрић И."
+							}]
+					},{
+						"label" : "700",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "Indicator '1'",
+						"subfields" :
+							[{
+								"key" : "4",
+								"value" : "070"
+							},{
+								"key" : "a",
+								"value" : "Andrić"
+							},{
+								"key" : "b",
+								"value" : "Ivo"
+							}]
+					},{
+						"label" : "702",
+						"firstIndicator" : "Indicator '1'",
+						"secondIndicator" : "Indicator '1'",
+						"subfields" :
+							[{
+								"key" : "4",
+								"value" : "080"
+							},{
+								"key" : "a",
+								"value" : "Deretić"
+							},{
+								"key" : "b",
+								"value" : "Jovan"
+							}]
+					}]
+				},{
+				"name" : "record",
+				"fields" :
+					[{
+						"label" : "001",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "c"
+							},{
+								"key" : "b",
+								"value" : "a"
+							},{
+								"key" : "c",
+								"value" : "m"
+							},{
+								"key" : "d",
+								"value" : "0"
+							},{
+								"key" : "7",
+								"value" : "ba"
+							},{
+								"key" : "e",
+								"value" : "203583"
+							}]
+					},{
+						"label" : "010",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "978-86-521-0863-3"
+							},{
+								"key" : "b",
+								"value" : "broš."
+							}]
+					},{
+						"label" : "100",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "c",
+								"value" : "2014"
+							},{
+								"key" : "h",
+								"value" : "srp"
+							}]
+					},{
+						"label" : "101",
+						"firstIndicator" : "Indicator '0'",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "srp"
+							}]
+					},{
+						"label" : "102",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "srb"
+							}]
+					},{
+						"label" : "200",
+						"firstIndicator" : "Indicator '0'",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Vreme čuda"
+							},{
+								"key" : "f",
+								"value" : "[Borislav] Pekić"
+							}]
+					},{
+						"label" : "205",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "3. izd."
+							}]
+					},{
+						"label" : "210",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Beograd"
+							},{
+								"key" : "c",
+								"value" : "Laguna"
+							},{
+								"key" : "d",
+								"value" : "2014"
+							}]
+					},{
+						"label" : "215",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "407 str."
+							},{
+								"key" : "d",
+								"value" : "20 cm"
+							}]
+					},{
+						"label" : "225",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Dela Borislava Pekića u 13 knjiga"
+							},{
+								"key" : "v",
+								"value" : "knj. 1"
+							}]
+					},{
+						"label" : "300",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "O autoru: str. 403-407"
+							}]
+					},{
+						"label" : "423",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "1",
+								"field" : {
+						"label" : "600",
+						"firstIndicator" : "Indicator '3'",
+						"secondIndicator" : "Indicator '1'",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "PEKIĆ"
+							},{
+								"key" : "b",
+								"value" : "BORISLAV"
+							},{
+								"key" : "f",
+								"value" : "1930-1992"
+							}]
+					}
+							},{
+								"key" : "1",
+								"field" : {
+						"label" : "215",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "str. 403-407"
+							}]
+					}
+							}]
+					},{
+						"label" : "675",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "821.163.41-31"
+							},{
+								"key" : "b",
+								"value" : "821.163.41-31"
+							}]
+					},{
+						"label" : "675",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "929:821.163.41 Pekić, B."
+							}]
+					},{
+						"label" : "700",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "Indicator '1'",
+						"subfields" :
+							[{
+								"key" : "4",
+								"value" : "070"
+							},{
+								"key" : "a",
+								"value" : "Pekić"
+							},{
+								"key" : "b",
+								"value" : "Borislav"
+							}]
+					}]
+				},{
+				"name" : "record",
+				"fields" :
+					[{
+						"label" : "001",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "7",
+								"value" : "ca"
+							},{
+								"key" : "a",
+								"value" : "c"
+							},{
+								"key" : "b",
+								"value" : "a"
+							},{
+								"key" : "c",
+								"value" : "m"
+							},{
+								"key" : "d",
+								"value" : "0"
+							},{
+								"key" : "e",
+								"value" : "34692"
+							}]
+					},{
+						"label" : "010",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "b",
+								"value" : "broš."
+							}]
+					},{
+						"label" : "100",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "c",
+								"value" : "1995"
+							},{
+								"key" : "h",
+								"value" : "scr"
+							}]
+					},{
+						"label" : "101",
+						"firstIndicator" : "Indicator '0'",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "srp"
+							}]
+					},{
+						"label" : "102",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "yug"
+							}]
+					},{
+						"label" : "105",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "y"
+							}]
+					},{
+						"label" : "200",
+						"firstIndicator" : "Indicator '0'",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Atlantida"
+							},{
+								"key" : "e",
+								"value" : "epos"
+							},{
+								"key" : "f",
+								"value" : "Borislav V. Pekić"
+							},{
+								"key" : "h",
+								"value" : "Knj. 2"
+							}]
+					},{
+						"label" : "210",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Novi Sad"
+							},{
+								"key" : "c",
+								"value" : "Solaris"
+							},{
+								"key" : "d",
+								"value" : "1995"
+							}]
+					},{
+						"label" : "215",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "297 str."
+							},{
+								"key" : "d",
+								"value" : "20 cm"
+							}]
+					},{
+						"label" : "225",
+						"firstIndicator" : "Indicator '2'",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Biblioteka srpske fantastike"
+							},{
+								"key" : "v",
+								"value" : "knj. 4"
+							}]
+					},{
+						"label" : "300",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Ćir"
+							}]
+					},{
+						"label" : "300",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Str. 291-296: Bliski, budući stari vek / Svetislav Jovanov"
+							}]
+					},{
+						"label" : "423",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "1",
+								"field" : {
+						"label" : "600",
+						"firstIndicator" : "Indicator '3'",
+						"secondIndicator" : "Indicator '1'",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "PEKIĆ"
+							},{
+								"key" : "b",
+								"value" : "BORISLAV"
+							},{
+								"key" : "f",
+								"value" : "1930-1992"
+							},{
+								"key" : "x",
+								"value" : "Atlantida"
+							}]
+					}
+							},{
+								"key" : "1",
+								"field" : {
+						"label" : "700",
+						"firstIndicator" : "Indicator '1'",
+						"secondIndicator" : "Indicator '1'",
+						"subfields" :
+							[{
+								"key" : "4",
+								"value" : "070"
+							},{
+								"key" : "a",
+								"value" : "Jovanov"
+							},{
+								"key" : "b",
+								"value" : "Svetislav"
+							}]
+					}
+							},{
+								"key" : "1",
+								"field" : {
+						"label" : "200",
+						"firstIndicator" : "Indicator '0'",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "Bliski, budući Stari vek"
+							}]
+					}
+							},{
+								"key" : "1",
+								"field" : {
+						"label" : "215",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "str. 291-296"
+							}]
+					}
+							}]
+					},{
+						"label" : "474",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "1",
+								"value" : "0"
+							}]
+					},{
+						"label" : "675",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "NOIND",
+						"subfields" :
+							[{
+								"key" : "a",
+								"value" : "821.163.41-31"
+							},{
+								"key" : "b",
+								"value" : "821.163.41-31"
+							}]
+					},{
+						"label" : "700",
+						"firstIndicator" : "NOIND",
+						"secondIndicator" : "Indicator '1'",
+						"subfields" :
+							[{
+								"key" : "4",
+								"value" : "070"
+							},{
+								"key" : "a",
+								"value" : "PEKIĆ"
+							},{
+								"key" : "b",
+								"value" : "Borislav"
+							}]
+					}]
+				}]
+	}
+}

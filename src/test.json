@@ -1,0 +1,21 @@
+{
+    "document" : {
+        "name" : "Document1",
+        "records" : [
+            {
+                "name" : "record1",
+                "fields" : [
+                    {
+                        "name": "425",
+                        "subfields" : [
+                            {
+                                "name": "a",
+                                "value": "Beograd"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
